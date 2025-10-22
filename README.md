@@ -1,4 +1,4 @@
-## Giấy Phép
+# Giấy Phép
 ## Nhiệm vụ 2.1: Tạo infographic bằng Canva AI
 - Infographic tạo bởi Canva AI, hình ảnh từ Unsplash (CC0)
 - Giấy phép [Creative Commons Attribution (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
