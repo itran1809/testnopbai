@@ -1,5 +1,5 @@
-Nhiệm vụ 2.1:
-# Infographic: Lợi ích của công nghệ số trong học tập
+# Nhiệm vụ 2.1:
+## Infographic: Lợi ích của công nghệ số trong học tập
 ## Giới thiệu
 Infographic trình bày các lợi ích nổi bật của công nghệ số trong lĩnh vực học tập, bao gồm:
 - Tăng cường tương tác giữa giảng viên và sinh viên.
