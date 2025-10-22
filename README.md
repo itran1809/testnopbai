@@ -1,4 +1,3 @@
-=========
-Tác phẩm này được cấp phép theo Giấy phép Creative Commons Ghi công 4.0 Quốc tế.
-Để xem bản sao của giấy phép này, truy cập:
-https://creativecommons.org/licenses/by/4.0/deed.vi
+Infographic “Lợi ích của công nghệ số trong học tập” được tạo bởi Canva AI (Magic Design), hình ảnh từ Unsplash (CC0).
+Giấy phép: Creative Commons Attribution 4.0 International (CC BY 4.0)
+.
